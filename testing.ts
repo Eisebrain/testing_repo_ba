@@ -10,7 +10,6 @@ export default async function handler(req, res) {
 
     const query = `SELECT * FROM benutzer WHERE benutzername = '${benutzer_eingabe}'`;
 
-
     const connection = new sqlite3.Database('./datenbank.db');
 
     connection.all(query, (err, ergebnisse) => {
