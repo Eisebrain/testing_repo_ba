@@ -11,7 +11,7 @@
 
 3. **Now it gets practical:**
     - a. You’re going to analyse the files 1-4 of this folder, one after the other.
-    - b. You have to search for the vulnerabilities explained in vulnerabilities.md in these files.
+    - b. In these files, you have to search for the vulnerabilities explained in vulnerabilities.md.
     - c. When you think you found a vulnerability, provide the name, the line(s) of code regarding the vulnerability and a short description in                 detected_vulnerabilities.xlsx
     - d. Whenever you’re set up and ready, start the timer. If you think you found every vulnerability, stop the timer earlier.
 
